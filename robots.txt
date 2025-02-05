@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://yourdomain.com/sitemap.xml
+
+# Disallow potentially sensitive areas
+Disallow: /assets/resume.pdf
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /admin/ 
